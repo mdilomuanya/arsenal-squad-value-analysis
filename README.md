@@ -59,8 +59,6 @@ Final visualizations were built in Tableau (`link`) to visually answer the five 
 ### Question 1: How has the cost/minute changed over time?
 ![table 1](Assets/Tables/Table1.png)
 
-Q1 Analysis: Median £/Minute Played Over Time
-
 The data shows that Arsenal’s median cost per minute played dropped significantly from £2,731 in 20/21 to £2,248 in 21/22, reflecting early squad trimming and better utilization of wage spend. However, efficiency dipped in later seasons, peaking at £3,723 in 23/24 before improving slightly in 24/25 (£3,332).
 
 This trend highlights a diagnostic insight: as Arsenal invested in higher-caliber players during their title challenge years (23/24–24/25), wage inflation outpaced the efficiency gains of previous seasons. Injuries and rotation further drove up the cost per effective minute.
@@ -71,3 +69,11 @@ Strategically, this analysis suggests Arsenal has moved from cutting “deadwood
 
 ### Question 2: How much of the wage bill is wasted on underused players?
 ![dashboard 1](Assets/Tables/dashboard1.png)
+
+Arsenal’s total weekly wage bill has fluctuated between **£2.4M** and **£3.4M** over the last five seasons, with the biggest dip in 21/22 reflecting the club’s post-pandemic reset. By 23/24 and 24/25, wages returned to the £3.2–3.3M range—close to 20/21 levels in absolute terms. However, the picture looks different when framed against revenue: with turnover growing from £367M in 20/21 to £616.6M in 23/24, wages now represent a smaller share of total income, meaning **Arsenal’s financial capacity to sustain a large wage bill has actually improved**.
+
+At the same time, the share of wages spent on underused players has steadily declined. In 20/21, nearly a quarter of the wage bill went to players featuring in less than 20% of minutes. By 24/25, this figure was just 12.5%. The club has clearly reduced “dead money” tied up in fringe contracts, a shift that reflects smarter squad management and fewer legacy deals weighing down the balance sheet.
+
+The strategic takeaway is twofold: **Arsenal not only trimmed inefficiencies but also grew into their wage bill as revenues surged**. With projected income in 24/25 estimated between £650M–£850M, even maintaining wages at current levels would leave the club in a stronger financial position than peers struggling with static revenues. Going forward, the challenge isn’t the size of the wage bill but ensuring new contracts continue to track player impact rather than sentiment or short-term hype.
+
+### Question 3: Who is overpaid relative to minutes?
