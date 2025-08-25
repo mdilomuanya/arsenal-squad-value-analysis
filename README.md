@@ -20,16 +20,18 @@ This project analyzes Arsenal’s wage bill efficiency by combining historic sal
 ## Project Workflow
 
 ### 1. Python: Data Collection & Enrichment
-I used the selenium and pandas to:
+Used the selenium and pandas libraries to:
 - Pull wage tables by season (2020/21→2024/25) from Capology
 - Pull playing-time and impact stats from FBref (minutes, PPG/PPM, on–off xG context)
+- Put them into separate data frames and export them as CSV files
 
-**Output:** A clean, enriched CSV file (`spotify_enriched.csv`) with fields like `main_artist`, `artist_genres`, `artist_popularity`, and `streams`.
+**Output:** Two enriched CSV files (`spotify_enriched.csv`) with fields like `main_artist`, `artist_genres`, `artist_popularity`, and `streams`.
 
 ### 2. Excel: Cleaning & Harmonization
 Using excel:
 - Normalized names across datasets
 - Cleaned NULLs and empty rows
+- Created a unique key for each player for each season
 - Used VLOOKUP to create a single table with the relevant data
 
 **Output:** A clean excel table `Spotify_Project_MySQL.sql` 
