@@ -1,4 +1,4 @@
-# Analysis of Spotify Global Trends
+# Analysis of Arsenal FC Squad Value
 ![Arsenal_Banner](Assets/arsenal-crest-and-club-name2.png)
 This project analyzes Arsenal’s wage bill efficiency by combining historic salary data, playing time, and a custom Game Impact Score (GIS) to evaluate player value relative to squad performance. Built with Python, Excel, and Tableau, the project answers five key questions surrounding changes in wage allocation over time, wage inefficiencies, player impact on performance impact, and alignment between wages and contribution, concluding with recommendations compared to Arsenal’s real-world contract decisions.
 ### Questions Answered
@@ -28,16 +28,29 @@ I used the selenium and pandas to:
 
 ### 2. Excel: Cleaning & Harmonization
 Using excel:
-- Normalize names across datasets
+- Normalized names across datasets
 - Cleaned NULLs and empty rows
 - Used VLOOKUP to create a single table with the relevant data
 
 **Output:** A clean excel table `Spotify_Project_MySQL.sql` 
 
-### 4. Tableau: Dashboard Visualization
-Final visualizations were built in Tableau (`Spotify_Tableau_Final.twb`) to visually answer our four key questions. Dashboards include:
-- Bar charts of genre popularity by country
-- Bubble plots of artists' global reach
+### 3. Tableau: Game Impact Score Creation
+Built table calculations in Tableau to create a Game Impact Score (GIS) mertic, weighting:
+- Points Per Game (PPG)
+- On-Off xG impact (team performance with vs without player)
 - Highlight tables of regional superstars with localized success
+Used Tableau normalization (percentiles) to compare across players/seasons
+Created calculated fields and parameter controls to test different weightings
+
+**Output:** Dynamic GIS field + normalized scores within Tableau workbooks
+
+
+### 4. Tableau: Data Visualization
+Final visualizations were built in Tableau (`Spotify_Tableau_Final.twb`) to visually answer the five research questions:
+- Wage/Minute Over Time → tracked wage efficiency trends across seasons
+- Overpaid vs Minutes → highlighted wages spent on underused players
+- Wasted Wage Bill → compared total vs wasted wages by year
+- Game Impact Score (GIS) → identified top contributors vs low-impact players
+- Wages vs Impact → quadrant plot of bargains, justified earners, and inefficiencies
 
 ---
