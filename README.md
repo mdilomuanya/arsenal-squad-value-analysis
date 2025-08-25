@@ -115,9 +115,8 @@ When we add impact into the equation, the picture sharpens. The Player Impact vs
 The Cost per Minute vs Impact table reinforces these findings, highlighting **Jesus** as exceedingly costly relative to his actual contribution. Injuries play a role here, but the trend raises red flags for contract value if availability doesn’t improve, as this has been a consistent issue for three seasons. In contrast, **Nwaneri and Lewis-Skelly—both just 17 and 18 respectivley**—deliver exceptional impact for minimal cost, strengthening the case for continued youth integration as a cost-control mechanism. **Ben White** again is flagged as a high cost player, towards the edge of the standard deviation, with a poor GIS.
 
 ---
-### Conclusions & Recommendations Based on Data
-#### Player Specific Recommendations
-Sell or release Older Low-Minute Players
+### Player Specific Conclusions & Recommendations Based on Data
+#### Sell or release Older Low-Minute Players
 - Tomiyasu, Neto, Tierney, Zinchenko: Each logged fewer than 20% of available minutes while on significant wages. Selling now avoids sunk costs and frees up squad spots.
 #### Consistently Poor Performers
 - Partey: Contract should be allowed to expire without renewal. At 31, recurring injuries and declining impact mean any extension would add inefficiency.
@@ -142,7 +141,7 @@ Interestingly, these data-driven recommendations align closely with Arsenal’s 
 - A solid backup for Raya, Kepa, was signed who can take minutes off him if need be
 
 ---
-### Financials and Squad Health
+### Financials and Squad Health Conclusions
 Beyond individuals, the broader financial picture shows Arsenal in a much stronger position:
 - **Wages as a percentage of revenue have declined**, despite absolute wage growth. Revenues surged from **£367M in 20/21 to £616.6M in 23/24**, with 24/25 projected as high as £850M.
 - The club can now comfortably sustain a £3.2–3.3M weekly wage bill without straining resources.
