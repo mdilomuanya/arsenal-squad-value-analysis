@@ -56,6 +56,18 @@ Final visualizations were built in Tableau (`link`) to visually answer the five 
 
 ---
 
-### Question 1: How has the cost of £/minute changed over time?
+### Question 1: How has the cost/minute changed over time?
 ![table 1](Assets/Tables/Table1.png)
 
+Q1 Analysis: Median £/Minute Played Over Time
+
+The data shows that Arsenal’s median cost per minute played dropped significantly from £2,731 in 20/21 to £2,248 in 21/22, reflecting early squad trimming and better utilization of wage spend. However, efficiency dipped in later seasons, peaking at £3,723 in 23/24 before improving slightly in 24/25 (£3,332).
+
+This trend highlights a diagnostic insight: as Arsenal invested in higher-caliber players during their title challenge years (23/24–24/25), wage inflation outpaced the efficiency gains of previous seasons. Injuries and rotation further drove up the cost per effective minute.
+
+From an optimization standpoint, the club should continue to monitor whether premium wages translate into consistent availability and impact. If not, future contracts need stricter alignment to minutes played or performance metrics.
+
+Strategically, this analysis suggests Arsenal has moved from cutting “deadwood” to the harder task of ensuring elite wages are justified by elite contributions. The risk now is less about wasted contracts and more about sustaining efficiency in a high-spend, title-chasing era.
+
+### Question 2: How much of the wage bill is wasted on underused players?
+![dashboard 1](Assets/Tables/Dashboard1.png)
