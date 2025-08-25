@@ -91,9 +91,9 @@ The next step is to monitor whether this pattern persists across other metrics. 
 
 ---
 
-### Question 4: Which players have the biggest impact on games (via GIS)?
+### Question 4: Which players have the biggest impact on performance (via GIS)?
 ![table 4](Assets/Tables/table4.png)
-To measure player impact, we began by looking at **Points Per Game (PPG)** — how many points Arsenal earned with a given player on the pitch (0=loss, 1=draw, 3=win) — and **On-Off xG**, which tracks how many goals the team was expected to score and concede changed when the player was on versus off the field. |**PPG reflects results**, while **On-Off xG captures underlying performance**. In 24/25 these two measures were highly correlated; once we excluded players with fewer than 20% of available minutes, they provided a strong proxy for a player’s influence on team outcomes.
+To measure player impact, we began by looking at **Points Per Game (PPG)** — the average amount of points Arsenal earned with a given player on the field (0=loss, 1=draw, 3=win) — and **On-Off xG**, which tracks how many goals the team was expected to score and concede changed when the player was on versus off the field (below 0 means net negative, above 0 means net positive). **PPG reflects results**, while **On-Off xG captures underlying performance**. In 24/25 these two measures were highly correlated; once we excluded players with fewer than 20% of available minutes, they provided a strong proxy for a player’s influence on team outcomes.
 
 I then combined these into a Game Impact Score (GIS). Using a formula incorporating z-scores, means, and standard deviations for both PPG and On-Off xG, weighted them 70:30 in favor of On-Off xG. This tilt reflects the view that performance metrics are more reliable than raw outcomes, while still incorporating results. Finally, scores were normalized within each season so that the top-performing player received a score of 100, allowing for relative comparison within the squad.
 
@@ -105,3 +105,7 @@ From a monitoring perspective, the **players to keep tabs on are those consisten
 ---
 
 ### Question 5: Does impact align with wages—who are bargains vs inefficiencies?
+![table 5](Assets/Tables/table5.png)
+
+![table 6](Assets/Tables/table6.png)
+
