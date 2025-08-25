@@ -116,19 +116,19 @@ The Cost per Minute vs Impact table reinforces these findings, highlighting **Je
 
 ---
 ### Conclusions & Recommendations Based on Data
-## Player Specific Recommendations
+#### Player Specific Recommendations
 Sell or release Older Low-Minute Players
 - Tomiyasu, Neto, Tierney, Zinchenko: Each logged fewer than 20% of available minutes while on significant wages. Selling now avoids sunk costs and frees up squad spots.
-## Consistently Poor Performers
+#### Consistently Poor Performers
 - Partey: Contract should be allowed to expire without renewal. At 31, recurring injuries and declining impact mean any extension would add inefficiency.
 - White: At 27, still prime-age, but his first season of low minutes/low impact is concerning. Give him one more season to rebound; if not, sell while value remains.
-## Priority Extensions
+#### Priority Extensions
 - Nwaneri & Lewis-Skelly: Both project as **high-impact bargains** and symbolize Arsenal’s youth-driven efficiency. Early extensions would protect against poaching.
 - Saliba: Played the second-most minutes in 24/25, combining consistency, age profile, and elite impact. Should be secured as a **top 3–5 earner** in the squad.
-## Mixed Cases
+#### Mixed Cases
 - Martinelli: Valuable in the market but delivered poor impact scores, and on high wages. If a high-value replacement is available, consider cashing in.
 - Jesus: High impact per minute but chronically unavailable, especially problematic as Arsenal’s second-highest paid player. Renegotiate with **incentives tied to availability**, or prepare to release.
-## Surprises
+#### Surprises
 - Sterling: Statistically provided strong impact-to-wage value despite skepticism from fans. His loan extension would be defensible, though not essential.
 - Raya: GIS underrates him because of the goalkeeper sample issue. Played 94.9% of minutes, suggesting a need for a more reliable understudy to spread risk.
 
