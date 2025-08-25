@@ -5,8 +5,8 @@ This project analyzes Arsenal’s wage bill efficiency by combining historic sal
 1. How has the average cost/minute played changed over time?
 2. How much of the wage bill is wasted on underused players?
 3. Who is overpaid relative to minutes?
-5. Which players have the biggest impact on games (via GIS)?
-6. Does impact align with wages—who are bargains vs inefficiencies?
+4. Which players have the biggest impact on games (via GIS)?
+5. Does impact align with wages—who are bargains vs inefficiencies?
 
 ---
 
@@ -77,3 +77,16 @@ At the same time, the share of wages spent on underused players has steadily dec
 The strategic takeaway is twofold: **Arsenal not only trimmed inefficiencies but also grew into their wage bill as revenues surged**. With projected income in 24/25 estimated between £650M–£850M, even maintaining wages at current levels would leave the club in a stronger financial position than peers struggling with static revenues. Going forward, the challenge isn’t the size of the wage bill but ensuring new contracts continue to track player impact rather than sentiment or short-term hype.
 
 ### Question 3: Who is overpaid relative to minutes?
+![table 2](Assets/Tables/table2.png)
+The raw £/minute figures for 24/25 highlight **Takehiro Tomiyasu** as an extreme outlier, costing nearly **£743K per minute played** due to major injuries that kept him sidelined for most of the season. Because his case reflects extraordinary circumstances rather than structural inefficiency, he is excluded from some of the further analysis to avoid skewing the dataset.
+
+![table 3](Assets/Tables/table3.png)
+Looking at the adjusted table without Tomiyasu, a clearer picture emerges. Players such as **Neto (£28.9K/min)**, **Tierney (£12.5K/min)**, **Jesus (£11.4K/min)**, and **Zinchenko (£9.8K/min)** stand out as costly relative to their availability. These players not only carry high wages but also offer limited minutes, raising questions about their reliability as long-term contributors.
+
+The next step is to monitor whether this pattern persists across other metrics. If these names continue appearing among the least efficient by team contribution as well, it strengthens the case for either renegotiation or exit. This kind of analysis ensures Arsenal doesn’t just cut “deadwood” once but maintains a disciplined wage-to-contribution balance year after year.
+
+### Question 4: Which players have the biggest impact on games (via GIS)?
+![table 4](Assets/Tables/table4.png)
+
+
+![table 5](Assets/Tables/table5.png)
