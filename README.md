@@ -137,7 +137,7 @@ Interestingly, these data-driven recommendations align closely with Arsenal’s 
 - Arsenal have let go of Tomiyasu, Neto, Tierney, and Partey
 - Zinchenko’s role has diminished, and has been linked with moves away with his future uncertain
 - Both Nwaneri and Lewis-Skelly recently recieved long-term contract renewals with higher pay
-- Two players who play in Martinelli's position and a contract upgrade for his rival in the squad Trossard, show he might be moving on
+- Two players who play in Martinelli's position have been signed, and a contract upgrade for his rival in the squad Trossard, show he might be cashed-in
 - A solid backup for Raya, Kepa, was signed who can take minutes off him if need be
 
 ---
