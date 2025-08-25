@@ -70,4 +70,4 @@ From an optimization standpoint, the club should continue to monitor whether pre
 Strategically, this analysis suggests Arsenal has moved from cutting “deadwood” to the harder task of ensuring elite wages are justified by elite contributions. The risk now is less about wasted contracts and more about sustaining efficiency in a high-spend, title-chasing era.
 
 ### Question 2: How much of the wage bill is wasted on underused players?
-![dashboard 1](Assets/Tables/Dashboard1.png)
+![dashboard 1](Assets/Tables/dashboard1.png)
