@@ -19,13 +19,13 @@ This project analyzes Arsenal’s wage bill efficiency by combining historic sal
 
 ## Project Workflow
 
-### 1. Python: Data Collection & Enrichment
+### 1. Python: Data Collection
 Used the selenium and pandas libraries to:
 - Pull wage tables by season (2020/21→2024/25) from Capology
 - Pull playing-time and impact stats from FBref (minutes, PPG/PPM, on–off xG context)
 - Put them into separate data frames and export them as CSV files
 
-**Output:** Two enriched CSV files (`spotify_enriched.csv`) with fields like `main_artist`, `artist_genres`, `artist_popularity`, and `streams`.
+**Output:** Two CSV files (`arsenal_minutes_played_2020_2025_fbref.csv`)  and `arsenal_salaries_2020_2025.csv`.
 
 ### 2. Excel: Cleaning & Harmonization
 Using excel:
@@ -34,21 +34,20 @@ Using excel:
 - Created a unique key for each player for each season
 - Used VLOOKUP to create a single table with the relevant data
 
-**Output:** A clean excel table `Spotify_Project_MySQL.sql` 
+**Output:** A clean excel table `arsenal_combined_data.xlsx` 
 
 ### 3. Tableau: Game Impact Score Creation
 Built table calculations in Tableau to create a Game Impact Score (GIS) mertic, weighting:
 - Points Per Game (PPG)
 - On-Off xG impact (team performance with vs without player)
-- Highlight tables of regional superstars with localized success
-Used Tableau normalization (percentiles) to compare across players/seasons
-Created calculated fields and parameter controls to test different weightings
+- Created calculated fields and parameter controls to test different weightings
+- Used Tableau normalization (percentiles) to compare across players/seasons
 
 **Output:** Dynamic GIS field + normalized scores within Tableau workbooks
 
 
 ### 4. Tableau: Data Visualization
-Final visualizations were built in Tableau (`Spotify_Tableau_Final.twb`) to visually answer the five research questions:
+Final visualizations were built in Tableau (`link`) to visually answer the five research questions:
 - Wage/Minute Over Time → tracked wage efficiency trends across seasons
 - Overpaid vs Minutes → highlighted wages spent on underused players
 - Wasted Wage Bill → compared total vs wasted wages by year
@@ -56,3 +55,6 @@ Final visualizations were built in Tableau (`Spotify_Tableau_Final.twb`) to visu
 - Wages vs Impact → quadrant plot of bargains, justified earners, and inefficiencies
 
 ---
+
+### Question 1: How has the cost of £/minute changed over time?
+(table goes here)
