@@ -57,7 +57,7 @@ Final visualizations were built in Tableau (`link`) to visually answer the five 
 ---
 
 ### Question 1: How has the cost/minute changed over time?
-![table 1](Assets/Tables/Table1.png)
+![table 1](Assets/Tables/table1.png)
 
 The data shows that Arsenal’s median cost per minute played dropped significantly from £2,731 in 20/21 to £2,248 in 21/22, reflecting early squad trimming and better utilization of wage spend. However, efficiency dipped in later seasons, peaking at £3,723 in 23/24 before improving slightly in 24/25 (£3,332).
 
@@ -105,7 +105,52 @@ From a monitoring perspective, the **players to keep tabs on are those consisten
 ---
 
 ### Question 5: Does impact align with wages—who are bargains vs inefficiencies?
-![table 5](Assets/Tables/table5.png)
-
 ![table 6](Assets/Tables/table6.png)
+The first lens is a simple one: wages vs minutes played for the entire squad. This plot shows whether players are consistently available for the team relative to their salary. Here, Arsenal’s biggest winners are the **high wage/high minutes group**—Ødegaard, Rice, Partey, and Saliba—who represent reliable, pillars delivering minutes value for their contracts. On the opposite side, **Jesus, Zinchenko, and White** appear as red flags: high wages with relatively low minutes, which weakens their overall efficiency and raises concerns about long-term value. At the bottom left, youngsters like **Nwaneri and Lewis-Skelly** register as extremely low-cost, low-minute contributors—a healthy dynamic, since they provide upside without straining the wage bill.
 
+![table 7](Assets/Tables/table7.png)
+When we add impact into the equation, the picture sharpens. The Player Impact vs Pay scatter confirms that **Arsenal’s biggest earners—Saka, Ødegaard, Rice, Havertz, Saliba—combine a strong GIS with high wages**, positioning them as justified spends. They also all fit the age profile, with all of them either already being prime age, or entering into their primes, showing a healthy core of players the squad is build around. However, **Partey and White** again surface as high-wage, low-impact players, mirroring their poor efficiency in the minutes plot, and Partey's age profile being in the red flags him again. **Martinelli**, is another player to watch out for, as he is on a high wage that is not reflecting his relatively poor impact. Him being a player with his prime still ahead of him, now might present a good opportunity to cash out on him while his value is still high. While Raya’s score is distorted by methodological quirks in evaluating goalkeepers, other players like **Calafiori, Nwaneri, and Timber** represent great contract value.
+
+![table 8](Assets/Tables/table8.png)
+The Cost per Minute vs Impact table reinforces these findings, highlighting **Jesus** as exceedingly costly relative to his actual contribution. Injuries play a role here, but the trend raises red flags for contract value if availability doesn’t improve, as this has been a consistent issue for three seasons. In contrast, **Nwaneri and Lewis-Skelly—both just 17 and 18 respectivley**—deliver exceptional impact for minimal cost, strengthening the case for continued youth integration as a cost-control mechanism. **Ben White** again is flagged as a high cost player, towards the edge of the standard deviation, with a poor GIS.
+
+---
+### Conclusions & Recommendations Based on Data
+## Player Specific Recommendations
+Sell or release Older Low-Minute Players
+- Tomiyasu, Neto, Tierney, Zinchenko: Each logged fewer than 20% of available minutes while on significant wages. Selling now avoids sunk costs and frees up squad spots.
+## Consistently Poor Performers
+- Partey: Contract should be allowed to expire without renewal. At 31, recurring injuries and declining impact mean any extension would add inefficiency.
+- White: At 27, still prime-age, but his first season of low minutes/low impact is concerning. Give him one more season to rebound; if not, sell while value remains.
+## Priority Extensions
+- Nwaneri & Lewis-Skelly: Both project as **high-impact bargains** and symbolize Arsenal’s youth-driven efficiency. Early extensions would protect against poaching.
+- Saliba: Played the second-most minutes in 24/25, combining consistency, age profile, and elite impact. Should be secured as a **top 3–5 earner** in the squad.
+## Mixed Cases
+- Martinelli: Valuable in the market but delivered poor impact scores, and on high wages. If a high-value replacement is available, consider cashing in.
+- Jesus: High impact per minute but chronically unavailable, especially problematic as Arsenal’s second-highest paid player. Renegotiate with **incentives tied to availability**, or prepare to release.
+## Surprises
+- Sterling: Statistically provided strong impact-to-wage value despite skepticism from fans. His loan extension would be defensible, though not essential.
+- Raya: GIS underrates him because of the goalkeeper sample issue. Played 94.9% of minutes, suggesting a need for a more reliable understudy to spread risk.
+
+---
+### Alignment with Reality
+Interestingly, these data-driven recommendations align closely with Arsenal’s actual moves:
+- Arsenal have let go of Tomiyasu, Neto, Tierney, and Partey
+- Zinchenko’s role has diminished, and has been linked with moves away with his future uncertain
+- Both Nwaneri and Lewis-Skelly recently recieved long-term contract renewals with higher pay
+- Two players who play in Martinelli's position and a contract upgrade for his rival in the squad Trossard, show he might be moving on
+- A solid backup for Raya, Kepa, was signed who can take minutes off him if need be
+
+---
+### Financials and Squad Health
+Beyond individuals, the broader financial picture shows Arsenal in a much stronger position:
+- **Wages as a percentage of revenue have declined**, despite absolute wage growth. Revenues surged from **£367M in 20/21 to £616.6M in 23/24**, with 24/25 projected as high as £850M.
+- The club can now comfortably sustain a £3.2–3.3M weekly wage bill without straining resources.
+- The **share of wages spent on underused players has fallen by nearly half** (23% in 20/21 → 12.5% in 24/25), marking a clear reduction in “deadwood” contracts.
+- The squad age profile is healthy: the wage bill is concentrated in 25–28 year olds (Rice, Saka, Ødegaard, Havertz, Saliba), who are both prime-age and high GIS scorers. Meanwhile, youth bargains (Nwaneri, Lewis-Skelly) provide cost-controlled upside, and veterans are no longer overrepresented.
+
+---
+### Strategic Takeaway
+Arsenal’s financial discipline and squad management have **transitioned from clearing legacy inefficiencies to optimizing at the margins**. The next phase isn’t about cutting obvious deadwood—it’s about **deciding how long to back prime but injury-prone players** (Jesus, White) and **locking in the high-impact core for their peak years**.
+
+The data shows a club increasingly aligned with elite standards: fewer wasted contracts, wages tied more closely to impact, and a youthful backbone capable of sustaining title challenges.
