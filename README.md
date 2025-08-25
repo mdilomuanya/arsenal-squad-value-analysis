@@ -67,6 +67,8 @@ From an optimization standpoint, the club should continue to monitor whether pre
 
 Strategically, this analysis suggests Arsenal has moved from cutting “deadwood” to the harder task of ensuring elite wages are justified by elite contributions. The risk now is less about wasted contracts and more about sustaining efficiency in a high-spend, title-chasing era.
 
+---
+
 ### Question 2: How much of the wage bill is wasted on underused players?
 ![dashboard 1](Assets/Tables/dashboard1.png)
 
@@ -75,6 +77,8 @@ Arsenal’s total weekly wage bill has fluctuated between **£2.4M** and **£3.4
 At the same time, the share of wages spent on underused players has steadily declined. In 20/21, nearly a quarter of the wage bill went to players featuring in less than 20% of minutes. By 24/25, this figure was just 12.5%. The club has clearly reduced “dead money” tied up in fringe contracts, a shift that reflects smarter squad management and fewer legacy deals weighing down the balance sheet.
 
 The strategic takeaway is twofold: **Arsenal not only trimmed inefficiencies but also grew into their wage bill as revenues surged**. With projected income in 24/25 estimated between £650M–£850M, even maintaining wages at current levels would leave the club in a stronger financial position than peers struggling with static revenues. Going forward, the challenge isn’t the size of the wage bill but ensuring new contracts continue to track player impact rather than sentiment or short-term hype.
+
+---
 
 ### Question 3: Who is overpaid relative to minutes?
 ![table 2](Assets/Tables/table2.png)
@@ -85,8 +89,19 @@ Looking at the adjusted table without Tomiyasu, a clearer picture emerges. Playe
 
 The next step is to monitor whether this pattern persists across other metrics. If these names continue appearing among the least efficient by team contribution as well, it strengthens the case for either renegotiation or exit. This kind of analysis ensures Arsenal doesn’t just cut “deadwood” once but maintains a disciplined wage-to-contribution balance year after year.
 
+---
+
 ### Question 4: Which players have the biggest impact on games (via GIS)?
 ![table 4](Assets/Tables/table4.png)
+To measure player impact, we began by looking at **Points Per Game (PPG)** — how many points Arsenal earned with a given player on the pitch (0=loss, 1=draw, 3=win) — and **On-Off xG**, which tracks how many goals the team was expected to score and concede changed when the player was on versus off the field. |**PPG reflects results**, while **On-Off xG captures underlying performance**. In 24/25 these two measures were highly correlated; once we excluded players with fewer than 20% of available minutes, they provided a strong proxy for a player’s influence on team outcomes.
 
+I then combined these into a Game Impact Score (GIS). Using a formula incorporating z-scores, means, and standard deviations for both PPG and On-Off xG, weighted them 70:30 in favor of On-Off xG. This tilt reflects the view that performance metrics are more reliable than raw outcomes, while still incorporating results. Finally, scores were normalized within each season so that the top-performing player received a score of 100, allowing for relative comparison within the squad.
 
 ![table 5](Assets/Tables/table5.png)
+The results for 24/25 highlight **Calafiori**, **Sterling**, **Saka**, and **Ødegaard** as Arsenal’s highest-impact players, with **Havertz** and **Nwaneri** also scoring strongly. On the other end, **White**, **Partey**, and **Raya** ranked lowest. Raya’s score illustrates one weakness of GIS: as a goalkeeper who played almost every match (94.9% of available minutes) there were too few “off-pitch” samples to meaningfully measure his swing effect. Similarly, injuries or differences in quality of opposition faced (e.g., White’s position shifting, Sterling predominantly getting minutes in easier low stakes games) can shift GIS up or down despite quality or a lack thereof in certain contexts.
+
+From a monitoring perspective, the **players to keep tabs on are those consistently scoring low GIS relative to their wages**. So far **White**, **Partey** and **Martinelli** appear as potential concerns, while Raya’s case suggests methodological caution, and Lewis-Skelly is a youth player who played in predominantly difficult games. Meanwhile, the cluster of high-impact young and core players — Saka, Ødegaard, Rice, Calafiori — reinforces the narrative that Arsenal’s wage structure is increasingly aligned with true value.
+
+---
+
+### Question 5: Does impact align with wages—who are bargains vs inefficiencies?
