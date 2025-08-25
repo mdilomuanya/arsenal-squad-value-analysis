@@ -57,4 +57,5 @@ Final visualizations were built in Tableau (`link`) to visually answer the five 
 ---
 
 ### Question 1: How has the cost of £/minute changed over time?
-(table goes here)
+![table 1](Assets/Tables/Median Cost per Minute Played (Inflation Adjusted 20:21–24:25).png)
+
