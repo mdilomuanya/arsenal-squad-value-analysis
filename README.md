@@ -1,5 +1,5 @@
 # Analysis of Spotify Global Trends
-![Arsenal_Banner](assets/arsenal-crest-and-club-name2.png)
+![Arsenal_Banner](Assets/arsenal-crest-and-club-name2.png)
 This project analyzes Arsenal’s wage bill efficiency by combining historic salary data, playing time, and a custom Game Impact Score (GIS) to evaluate player value relative to squad performance. Built with Python, Excel, and Tableau, the project answers five key questions surrounding changes in wage allocation over time, wage inefficiencies, player impact on performance impact, and alignment between wages and contribution, concluding with recommendations compared to Arsenal’s real-world contract decisions.
 ### Questions Answered
 1. How has the average cost/minute played changed over time?
