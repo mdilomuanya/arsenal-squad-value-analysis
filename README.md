@@ -57,7 +57,7 @@ Final visualizations were built in Tableau (`link`) to visually answer the five 
 ---
 
 ### Question 1: How has the cost/minute changed over time?
-![table 1](Assets/Tables/table1a.png)
+![table 1](Assets/Tables/table1b.png)
 
 The data shows that Arsenal’s median cost per minute played dropped significantly from £2,731 in 20/21 to £2,248 in 21/22, reflecting early squad trimming and better utilization of wage spend. However, efficiency dipped in later seasons, peaking at £3,723 in 23/24 before improving slightly in 24/25 (£3,332).
 
