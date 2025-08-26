@@ -153,3 +153,10 @@ Beyond individuals, the broader financial picture shows Arsenal in a much strong
 Arsenal’s financial discipline and squad management have **transitioned from clearing legacy inefficiencies to optimizing at the margins**. The next phase isn’t about cutting obvious deadwood—it’s about **deciding how long to back prime but injury-prone players** (Jesus, White) and **locking in the high-impact core for their peak years**.
 
 The data shows a club increasingly aligned with elite standards: fewer wasted contracts, wages tied more closely to impact, and a youthful backbone capable of sustaining title challenges.
+
+---
+
+## Author
+**Matthew-David Ilomuanya**  
+Data Analyst & Researcher  
+LinkedIn | GitHub | Portfolio Website
