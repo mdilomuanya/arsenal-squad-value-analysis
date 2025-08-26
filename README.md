@@ -125,8 +125,8 @@ The Cost per Minute vs Impact table reinforces these findings, highlighting **Je
 - Nwaneri & Lewis-Skelly: Both project as **high-impact bargains** and symbolize Arsenal’s youth-driven efficiency. Early extensions would protect against poaching.
 - Saliba: Played the second-most minutes in 24/25, combining consistency, age profile, and elite impact. Should be secured as a **top 3–5 earner** in the squad.
 #### Mixed Cases
-- Martinelli: Valuable in the market but delivered poor impact scores, and on high wages. If a high-value replacement is available, consider cashing in.
-- Jesus: High impact per minute but chronically unavailable, especially problematic as Arsenal’s second-highest paid player. Renegotiate with **incentives tied to availability**, or prepare to release.
+- Martinelli: Fairly valuable in the market but delivered poor impact scores, and on high wages. If a high-value replacement is available, consider cashing in.
+- Jesus: High impact per minute but chronically unavailable, especially problematic as Arsenal’s second-highest paid player. Renegotiate contract with **incentives tied to availability**, or prepare to release.
 #### Surprises
 - Sterling: Statistically provided strong impact-to-wage value despite skepticism from fans. His loan extension would be defensible, though not essential.
 - Raya: GIS underrates him because of the goalkeeper sample issue. Played 94.9% of minutes, suggesting a need for a more reliable understudy to spread risk.
