@@ -159,4 +159,4 @@ The data shows a club increasingly aligned with elite standards: fewer wasted co
 ## Author
 **Matthew-David Ilomuanya**  
 Data Analyst & Researcher  
-LinkedIn | GitHub | Portfolio Website
+[LinkedIn](https://www.linkedin.com/in/matthew-david-ilomuanya-2498101a5/) | Portfolio Website
